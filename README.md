@@ -1,0 +1,2 @@
+# index
+Subdomain Takeover myskar
